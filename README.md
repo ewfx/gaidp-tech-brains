@@ -9,7 +9,7 @@
 - [Challenges We Faced](#challenges-we-faced)
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
-- [Team](#team)
+- [TechBrains](#team)
 
 ---
 
