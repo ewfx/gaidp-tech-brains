@@ -14,47 +14,35 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Introduction:
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+Gen AI based solution for data profiling
 
-![Screenshot 1](link-to-image)
+Demo: 
+Video is uploaded and the requirement.txt has the libraries to be installed pip install -r requirements.txt) and use streamlit run app.py to start the UI. The UI has various options for running through each of the requirements.
 
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+What it does:
+The model prompts to upload a CSV file which then runs the data profiling on it. In addition, it provides a UI to perform the required actions on the dataset
 
-## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+How we build it
 
-## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+It is build using various open source AI software and libraries
 
-## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Challenges we faced:
+Runtime was not sufficient to complete the execution. The issue was with Llama and mistral
 
-## 🏃 How to Run
-1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
-   ```
+Hoe to run:
 
-## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+Execute using the below command:
 
-## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+streamlit run app.py
+
+
+TechStack:
+Python and open source AI libraries
+
+Team:
+Sudha Selvaraj
+Sudipta Nataraj
+Shiridinath Panakam
+Bhavna Bhatia
