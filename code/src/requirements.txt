@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+transformers
+torch
+pdfplumber
+ydata-profiling
+scikit-learn
+shap
+xgboost
